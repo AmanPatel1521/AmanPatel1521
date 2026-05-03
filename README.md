@@ -118,13 +118,13 @@ const aman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanPatel1521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AmanPatel1521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPatel1521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AmanPatel1521&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=c9d1d9" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmanPatel1521&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=AmanPatel1521&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" height="180"/>
 </div>
 
 ---
